@@ -1,5 +1,3 @@
-# duyangsir.vue
-# vue 项目
+# dy
 
-## 技术栈
-  vue2.0
+资管系统线下demo
